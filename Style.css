@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.card__title{
+    background-color: rgb(122, 207, 10);
+    text-align: center;
+    color: white;
+    padding: 2px;
+    
+}
+.img{
+    height: 300px;
+    width: 230px;
+}
+.img2{
+    height: 300px;
+    width: 230px;
+}
+.img0{
+    height: 300px;
+    width: 230px;
+}
+.img3{
+    height: 300px;
+    width: 230px;
+}
+.card{
+    background-color: white;
+    color: black; 
+    border: solid rgb(122, 207, 10) 2px;
+    margin-top: 5px;
+    padding: 5px;
+    display: inline-block;
+    overflow: hidden;
+    width: 300px;
+    height: 400px;
+    
+}
+.condiner{
+    text-align: center;
+}
+button{
+    background-color: black;
+    color: white;
+    margin: 3px;
+   border-radius: 7px;
+}
+.cont{
+    background-color: rgb(122, 207, 10);
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+    
+
+}
+
+.card2{
+    text-align: center;
+
+}
+.send{
+    text-align: center;
+    width: 250px;
+    height: 25px;
+    background-color: white;
+    color: rgb(122, 207, 10) ;
+}
+.tab input{
+    border-radius: 5px;
+}
+
