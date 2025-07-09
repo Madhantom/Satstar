@@ -1,4 +1,4 @@
-SatStar Hotel 
+#SatStar
 Welcome to SatStar Hotel, a modern and stylish single-page hotel website designed using HTML and CSS. This project is ideal for showcasing hotel services, rooms, and contact details in a clean, user-friendly layout.
 
 🖥️ Project Overview
